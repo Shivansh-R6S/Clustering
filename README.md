@@ -1,3 +1,5 @@
+The dataset picked up was the Pokemon dataset
+
 Transformation + Normalization + PCA (T+N+PCA) with c=5 has the best overall performance:
 
 Silhouette Score: 0.8063 (highest among all methods and cluster counts), indicating well-defined clusters.
